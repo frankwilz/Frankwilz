@@ -56,7 +56,7 @@ An interactive online forum where car enthusiasts can post questions, share upda
 This project showcases my UX-first design mindset and front-end development skills. I wanted to create a discussion space inspired by existing forums but tailored to modern usability standards. Using **HTML**, **CSS**, **JavaScript**, and **PHP**, I built a prototype allowing users to register, post, and comment. I conducted **user interviews** to identify key features and accessibility preferences (e.g., dark mode vs light mode).
 
 ### **When?**  
-Completed in **October 2025** as part of my **Software Development Bootcamp (Circuit Stream)** portfolio module.
+Completion in **December 2025** as part of my **Software Development Bootcamp (Circuit Stream)** portfolio module.
 
 ### **Who and Where?**  
 Individual project, created under the mentorship of **Circuit Stream instructors**.

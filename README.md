@@ -1,21 +1,20 @@
-# Personal Branding and Digital Presence
 
-## Personal Branding Statement
 I use my web development and problem-solving skills to build engaging, reliable software solutions.
 Through academic and bootcamp projects, including **Craftique**, I have developed strong skills in PHP, MySQL, and front-end development.
 I combine creativity with persistence to help communities and businesses present their work online through secure, user-friendly applications.
 I believe technology should empower people and create opportunities for clients, organizations, and everyday users.
 
+
 ---
 
-## 1. Basic Information
+##  Basic Information
 - **Name:** Frank Mensa Williams
 - **Nationality:** Ghanaian
 - **Age:** 23 (Born February 7, 2002)
 
 ---
 
-## 2. About Me
+## About Me
 I am a Computer Science student at the University of British Columbia Okanagan and a participant in the Circuit Stream Web Development Bootcamp.
 I enjoy building full-stack applications and creating digital experiences that combine clean design with practical functionality.
 My career goal is to become a full-stack developer or software engineer focused on scalable, user-centered products.
@@ -29,9 +28,9 @@ I am committed to continuous learning and applying my skills to real-world chall
 ### Unique Value Proposition
 I combine technical ability with adaptability and creativity, which helps me build solutions that are both robust and user-friendly.
 
----
+--
 
-## 3. Projects
+## A Few Projects
 
 ### Project 1: Craftique - E-Commerce Store for Handmade Goods
 - **Skills used:** PHP, MySQL, HTML, CSS, JavaScript, authentication, database design
@@ -48,8 +47,9 @@ I combine technical ability with adaptability and creativity, which helps me bui
 - **Outcome:** Built an end-to-end note-taking app where users can create, edit, and delete notes smoothly
 
 ### Project 3: Personal Portfolio Website
+https://frankwilz-portfolio-20260309.netlify.app
 - **Skills used:** HTML, CSS, JavaScript, branding, responsive design
-- **Date:** 2025 (In progress)
+- **Date:** 2025 
 - **Collaborators:** Individual project
 - **What I learned:** Personal branding, layout planning, content strategy
 - **Outcome:** Built a personal website to present projects, skills, and career goals

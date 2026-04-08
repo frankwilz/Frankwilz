@@ -15,7 +15,7 @@ I believe technology should empower people and create opportunities for clients,
 ---
 
 ## About Me
-I am a Computer Science student at the University of British Columbia Okanagan and a participant in the Circuit Stream Web Development Bootcamp.
+I am a Computer Science student at the University of British Columbia Okanagan and a grauduate of the Circuit Stream Web Development Bootcamp.
 I enjoy building full-stack applications and creating digital experiences that combine clean design with practical functionality.
 My career goal is to become a full-stack developer or software engineer focused on scalable, user-centered products.
 I am committed to continuous learning and applying my skills to real-world challenges.

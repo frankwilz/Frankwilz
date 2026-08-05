@@ -36,11 +36,11 @@ I am a Ghanaian developer and Computer Science student at the University of Brit
 - Strong collaboration skills developed through group projects, hackathons, and academic teamwork
 - A mix of adaptability, persistence, and creativity that helps me ship polished, useful solutions
 
-## Featured Project
+## Recent Project
 
-### Craftique
+### Becky Wig Receipt System
 
-Craftique reflects the kind of work I enjoy most: combining backend logic, database design, and frontend presentation into a complete product experience. Projects like this have helped me strengthen both my technical skills and my ability to build software around real user needs.
+Built an online and offline receipt system for a trader, designed to record customer purchases quickly and send receipts with less manual effort. The system supports both speech input and text entry, making it practical for fast-paced sales workflows and more flexible in low-connectivity situations.
 
 ## Tech Stack
 

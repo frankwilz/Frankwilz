@@ -75,12 +75,6 @@ Built an online and offline receipt system for a trader, designed to record cust
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-## GitHub Snapshot
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=frankwilz&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Frank Williams GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankwilz&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
 
 ## Current Direction
 

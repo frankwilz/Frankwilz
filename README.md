@@ -1,18 +1,94 @@
-# 💫 About Me:
-I use my web development and problem-solving skills to build engaging, reliable software solutions. Through academic and bootcamp projects, including Craftique, I have developed strong skills in PHP, MySQL, and front-end development. I combine creativity with persistence to help communities and businesses present their work online through secure, user-friendly applications. I believe technology should empower people and create opportunities for clients, organizations, and everyday users.<br><br>Basic Information<br><br>Name: Frank Mensa Williams<br>Nationality: Ghanaian<br>Age: 23 (Born February 7, 2002)<br>About Me<br><br>I am a Computer Science student at the University of British Columbia Okanagan and a grauduate of the Circuit Stream Web Development Bootcamp. I enjoy building full-stack applications and creating digital experiences that combine clean design with practical functionality. My career goal is to become a full-stack developer or software engineer focused on scalable, user-centered products. I am committed to continuous learning and applying my skills to real-world challenges.<br><br>Top 3 Skills<br><br>Full-stack web development (PHP, MySQL, JavaScript, HTML/CSS)<br>Problem-solving and algorithmic thinking (Java, Data Structures, Algorithms)<br>Team collaboration and communication (group projects, hackathons, academic teamwork)<br>Unique Value Proposition<br><br>I combine technical ability with adaptability and creativity, which helps me build solutions that are both robust and user-friendly.
+# Frank Mensa Williams
 
+<p align="center">
+  <strong>Computer Science student at UBC Okanagan building reliable, user-focused software.</strong>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frank_willz) 
+<p align="center">
+  I enjoy turning ideas into practical web applications with clean interfaces, solid backend logic, and a strong focus on usability.
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=frankwilz&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=frankwilz&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=frankwilz&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/frankwilz">
+    <img src="https://img.shields.io/badge/GitHub-frankwilz-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/frank_willz">
+    <img src="https://img.shields.io/badge/Instagram-@frank__willz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=frankwilz&icon=0&color=0)](https://visitcount.itsvg.in)
+## About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am a Ghanaian developer and Computer Science student at the University of British Columbia Okanagan, with additional training from the Circuit Stream Web Development Bootcamp. I build software that balances technical quality with real user needs, and I am especially interested in full-stack development, scalable products, and digital experiences that help people and organizations present their work effectively online.
+
+## Quick Profile
+
+- Name: Frank Mensa Williams
+- Background: Computer Science student at UBC Okanagan
+- Training: Circuit Stream Web Development Bootcamp graduate
+- Focus: Full-stack development and software engineering
+- Strength: Building secure, user-friendly applications with practical value
+
+## What I Bring
+
+- Full-stack web development across PHP, MySQL, JavaScript, HTML, and CSS
+- Problem-solving grounded in Java, data structures, and algorithms
+- Strong collaboration skills developed through group projects, hackathons, and academic teamwork
+- A mix of adaptability, persistence, and creativity that helps me ship polished, useful solutions
+
+## Featured Project
+
+### Craftique
+
+Craftique reflects the kind of work I enjoy most: combining backend logic, database design, and frontend presentation into a complete product experience. Projects like this have helped me strengthen both my technical skills and my ability to build software around real user needs.
+
+## Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### Backend and Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-A08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+### Data, Cloud, and Tools
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+## GitHub Snapshot
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=frankwilz&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Frank Williams GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankwilz&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+## Current Direction
+
+- Deepening my full-stack engineering skills through academic and project-based work
+- Building scalable, user-centered applications with clean architecture
+- Growing toward a full-stack developer or software engineer role
+
+## Contact
+
+- GitHub: [github.com/frankwilz](https://github.com/frankwilz)
+- Instagram: [@frank_willz](https://instagram.com/frank_willz)

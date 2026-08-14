@@ -16,7 +16,7 @@
 
 ## About
 
-I am a Ghanaian developer and Computer Science student at the University of British Columbia Okanagan, with additional training from the Circuit Stream Web Development Bootcamp. I build software that balances technical quality with real user needs, and I am especially interested in full-stack development, scalable products, and digital experiences that help people and organizations present their work effectively online.
+I am a developer and 4th year Computer Science student at the University of British Columbia Okanagan, with additional training from the Circuit Stream Web Development Bootcamp. I build software that balances technical quality with real user needs, and I am especially interested in full-stack development, scalable products, and digital experiences that help people and organizations present their work effectively online.
 
 ## Quick Profile
 

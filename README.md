@@ -12,9 +12,6 @@
   <a href="https://github.com/frankwilz">
     <img src="https://img.shields.io/badge/GitHub-frankwilz-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/frank_willz">
-    <img src="https://img.shields.io/badge/Instagram-@frank__willz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </p>
 
 ## About

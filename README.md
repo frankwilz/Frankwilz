@@ -82,4 +82,3 @@ Built an online and offline receipt system for a trader, designed to record cust
 ## Contact
 
 - GitHub: [github.com/frankwilz](https://github.com/frankwilz)
-- Instagram: [@frank_willz](https://instagram.com/frank_willz)
